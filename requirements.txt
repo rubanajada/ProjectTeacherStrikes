@@ -1,0 +1,8 @@
+Flask==1.0.3
+Flask-Cors==3.0.7
+Flask-PyMongo==2.3.0
+Flask-SQLAlchemy==2.4.0
+gunicorn==19.9.0
+pandas==0.24.2
+psycopg2==2.8.3
+numpy==1.16.4
